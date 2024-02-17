@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: RPI-RP2
+  - board: sparkfun_pro_micro_rp2040
     shield: corne_left nice_view_adapter nice_view
-  - board: RPI-RP2
+  - board: sparkfun_pro_micro_rp2040
     shield: corne_right nice_view_adapter nice_view
