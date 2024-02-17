@@ -13,7 +13,7 @@
 #
 ---
 include:
-  - board: sparkfun_pro_micro_rp2040
+  - board: rp2040_ce
     shield: corne_left nice_view_adapter nice_view
-  - board: sparkfun_pro_micro_rp2040
+  - board: rp2040_ce
     shield: corne_right nice_view_adapter nice_view
