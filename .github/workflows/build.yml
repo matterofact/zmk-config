@@ -2,4 +2,4 @@ on: [push, pull_request, workflow_dispatch]
 
 jobs:
   build:
-    uses: zmkfirmware/zmk/.github/workflows/build-user-config.yml@corne-pro-micro-rp2040
+    uses: zmkfirmware/.github/workflows/build-user-config.yml@corne-pro-micro-rp2040
